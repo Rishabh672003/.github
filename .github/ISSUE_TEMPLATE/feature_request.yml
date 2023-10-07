@@ -18,7 +18,7 @@ body:
   - type: textarea
     attributes:
       label: Do you have a proposed solution?
-      description: Provide a clear and concise description of suggestions on how this features can be implemented. 
+      description: Provide a clear and concise description of suggestions on how this features can be implemented.
     validations:
       required: true
   - type: checkboxes
@@ -29,12 +29,3 @@ body:
       options:
         - label: I am willing to implement this feature.
           required: false
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Terms and Conditions
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/tcet-opensource/.github/blob/main/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
-          

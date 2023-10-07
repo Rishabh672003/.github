@@ -1,8 +1,9 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discord
-    url: https://discord.gg/r7ZhAREg2M
+    url: https://discord.gg/rishabh100
     about: You can join our Discord.
-  - name: Website
-    url: https://opensource.tcetmumbai.in/
-    about: Visit for more Information.
+  - name: Github
+    url: https://github.com/Rishabh672003
+    about: github profile
+
